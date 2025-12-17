@@ -9,7 +9,7 @@ Bem Vindos!! Sou Leomar Veloso apaixonado por Tecnologia e Café
   <img align="center" alt="Leo-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg">
   <img align="center" alt="Leo-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kibana/kibana-original.svg">
   <img align="center" alt="Leo-Csharp" height="30" width="40" src="https://www.vectorlogo.zone/logos/apache_nifi/apache_nifi-icon.svg">
-  <img align="center" alt="Leo-Csharp" height="30" width="40" src="https://img.logo.dev/streamlit.io?token=live_6a1a28fd-6420-4492-aeb0-b297461d9de2&size=128&retina=false&format=png&theme=dark">
+  <img align="center" alt="Leo-Csharp" height="50" width="50" src="https://img.logo.dev/streamlit.io?token=live_6a1a28fd-6420-4492-aeb0-b297461d9de2&size=128&retina=false&format=png&theme=dark">
 </div>
   
   ##
